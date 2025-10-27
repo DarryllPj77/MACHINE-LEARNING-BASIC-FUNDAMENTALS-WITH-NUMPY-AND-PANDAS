@@ -1,0 +1,151 @@
+     Transaction_ID Product_Category  Quantity  Price_Per_Unit  Sale_Amount
+0                 1      Electronics         4           77.70       310.80
+1                 2          Apparel         5          182.30       911.50
+2                 3       Home Goods         3           61.71       185.13
+3                 4            Books         5          133.06       665.30
+4                 5      Electronics         5           10.10        50.50
+5                 6          Apparel         2           76.99       153.98
+6                 7       Home Goods         3           67.91       203.73
+7                 8            Books         3           41.28       123.84
+8                 9      Electronics         3          111.48       334.44
+9                10          Apparel         5          102.12       510.60
+10               11       Home Goods         4          141.56       566.24
+11               12            Books         3           61.19       183.57
+12               13      Electronics         5           56.38       281.90
+13               14          Apparel         2           41.98        83.96
+14               15       Home Goods         4           51.57       206.28
+15               16            Books         2          116.04       232.08
+16               17      Electronics         4           86.73       346.92
+17               18          Apparel         5           22.33       111.65
+18               19       Home Goods         1           58.24        58.24
+19               20            Books         4           56.91       227.64
+20               21      Electronics         2          142.30       284.60
+21               22          Apparel         5          145.33       726.65
+22               23       Home Goods         4           38.14       152.56
+23               24            Books         1          199.57       199.57
+24               25      Electronics         1           60.69        60.69
+25               26          Apparel         3          195.56       586.68
+26               27       Home Goods         3           88.10       264.30
+27               28            Books         2           16.28        32.56
+28               29      Electronics         4           75.56       302.24
+29               30          Apparel         4          130.53       522.12
+30               31       Home Goods         3          139.33       417.99
+31               32            Books         4          110.88       443.52
+32               33      Electronics         4           95.08       380.32
+33               34          Apparel         1          115.05       115.05
+34               35       Home Goods         3          122.61       367.83
+35               36            Books         5           25.36       126.80
+36               37      Electronics         3           80.23       240.69
+37               38          Apparel         5           56.01       280.05
+38               39       Home Goods         1          162.60       162.60
+39               40            Books         2           99.36       198.72
+40               41      Electronics         4          196.85       787.40
+41               42          Apparel         1           85.78        85.78
+42               43       Home Goods         4          165.12       660.48
+43               44            Books         2          161.69       323.38
+44               45      Electronics         2           38.64        77.28
+45               46          Apparel         1          106.56       106.56
+46               47       Home Goods         2          142.20       284.40
+47               48            Books         5          173.09       865.45
+48               49      Electronics         2           71.93       143.86
+49               50          Apparel         4           51.85       207.40
+50               51       Home Goods         4          145.12       580.48
+51               52            Books         4          163.81       655.24
+52               53      Electronics         4           76.25       305.00
+53               54          Apparel         5           28.27       141.35
+54               55       Home Goods         3          188.70       566.10
+55               56            Books         1           85.54        85.54
+56               57      Electronics         4          108.37       433.48
+57               58          Apparel         2          169.16       338.32
+58               59       Home Goods         4          138.38       553.52
+59               60            Books         2          149.69       299.38
+60               61      Electronics         2           49.72        99.44
+61               62          Apparel         4          112.88       451.52
+62               63       Home Goods         5          142.20       711.00
+63               64            Books         2           53.42       106.84
+64               65      Electronics         2           43.24        86.48
+65               66          Apparel         4          196.61       786.44
+66               67       Home Goods         2          108.16       216.32
+67               68            Books         2           59.56       119.12
+68               69      Electronics         4          199.29       797.16
+69               70          Apparel         4          193.43       773.72
+70               71       Home Goods         1          116.08       116.08
+71               72            Books         5          177.70       888.50
+72               73      Electronics         5           45.85       229.25
+73               74          Apparel         2           62.99       125.98
+74               75       Home Goods         5          143.07       715.35
+75               76            Books         2          170.87       341.74
+76               77      Electronics         1          172.70       172.70
+77               78          Apparel         4           86.86       347.44
+78               79       Home Goods         4          178.68       714.72
+79               80            Books         4          171.68       686.72
+80               81      Electronics         5          187.77       938.85
+81               82          Apparel         1          159.21       159.21
+82               83       Home Goods         5          137.11       685.55
+83               84            Books         5          120.33       601.65
+84               85      Electronics         1           80.73        80.73
+85               86          Apparel         1          188.63       188.63
+86               87       Home Goods         1          195.00       195.00
+87               88            Books         1           63.94        63.94
+88               89      Electronics         4           68.02       272.08
+89               90          Apparel         3          102.27       306.81
+90               91       Home Goods         3           95.20       285.60
+91               92            Books         1          198.95       198.95
+92               93      Electronics         3           43.43       130.29
+93               94          Apparel         3           13.43        40.29
+94               95       Home Goods         1          103.84       103.84
+95               96            Books         3           43.98       131.94
+96               97      Electronics         5           79.63       398.15
+97               98          Apparel         2          151.39       302.78
+98               99       Home Goods         2          146.98       293.96
+99              100            Books         1           68.53        68.53
+100             101      Electronics         4          113.08       452.32
+101             102          Apparel         1          106.67       106.67
+102             103       Home Goods         4          130.90       523.60
+103             104            Books         2           57.59       115.18
+104             105      Electronics         1          122.08       122.08
+105             106          Apparel         5          195.99       979.95
+106             107       Home Goods         3          102.48       307.44
+107             108            Books         4          182.16       728.64
+108             109      Electronics         3           92.53       277.59
+109             110          Apparel         3           76.51       229.53
+110             111       Home Goods         1          132.57       132.57
+111             112            Books         3          137.10       411.30
+112             113      Electronics         5          174.19       870.95
+113             114          Apparel         3           53.74       161.22
+114             115       Home Goods         1          104.85       104.85
+115             116            Books         5          118.68       593.40
+116             117      Electronics         2          156.03       312.06
+117             118          Apparel         3           18.28        54.84
+118             119       Home Goods         1          198.96       198.96
+119             120            Books         2           99.29       198.58
+120             121      Electronics         2           63.12       126.24
+121             122          Apparel         4          177.86       711.44
+122             123       Home Goods         5          152.07       760.35
+123             124            Books         3          191.08       573.24
+124             125      Electronics         1           72.84        72.84
+125             126          Apparel         4          115.03       460.12
+126             127       Home Goods         5          118.74       593.70
+127             128            Books         4          196.26       785.04
+128             129      Electronics         5           24.32       121.60
+129             130          Apparel         5           68.08       340.40
+130             131       Home Goods         3           46.27       138.81
+131             132            Books         5           61.01       305.05
+132             133      Electronics         4          102.20       408.80
+133             134          Apparel         5           80.81       404.05
+134             135       Home Goods         3           84.99       254.97
+135             136            Books         3          170.40       511.20
+136             137      Electronics         4          186.70       746.80
+137             138          Apparel         2           23.38        46.76
+138             139       Home Goods         2           49.69        99.38
+139             140            Books         5          137.52       687.60
+140             141      Electronics         1           78.14        78.14
+141             142          Apparel         5           58.29       291.45
+142             143       Home Goods         4           66.11       264.44
+143             144            Books         4           71.28       285.12
+144             145      Electronics         4          171.25       685.00
+145             146          Apparel         4           35.96       143.84
+146             147       Home Goods         4          144.69       578.76
+147             148            Books         3          115.04       345.12
+148             149      Electronics         2           66.34       132.68
+149             150          Apparel         4           89.76       359.04
